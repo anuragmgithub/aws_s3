@@ -57,4 +57,4 @@ try:
         print("")
 
 except Exception as e:
-    print(f"An error occurred: {e}")
+    print(f"An error occurred please check: {e}")
