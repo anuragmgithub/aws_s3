@@ -2,7 +2,7 @@
 
 This repository contains Python programs that demonstrate basic file operations on Amazon S3 buckets using the Boto3 library.
 
-## List S3 Files
+### List S3 Files
 
 ### Summary
 
@@ -12,7 +12,7 @@ The `s3listcopymoveop.py` program connects to an Amazon S3 bucket and lists all 
 
 1. Ensure you have Boto3 installed: `pip install boto3`.
 2. Replace `'YOUR_ACCESS_KEY_ID'`, `'YOUR_SECRET_ACCESS_KEY'`, and `'your-s3-bucket-name'` in the program with your AWS access credentials and the name of the S3 bucket you want to list files from.
-3. Run the program to list the files in the specified bucket.
+3. Run the program to list the files in the specified bucket
 
 ## Move S3 Files
 
