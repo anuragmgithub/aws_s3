@@ -18,7 +18,7 @@ The `s3listcopymoveop.py` program connects to an Amazon S3 bucket and lists all 
 
 ### Summary
 
-The `s3listcopymoveop.py` program connects to an Amazon S3 bucket, identifies files starting with names from 'a' to 'h', and moves them to another S3 bucket. It uses the Boto3 library for AWS interaction.
+The `s3listcopymoveop.py` program connects to an Amazon S3 bucket, identifies files starting with names from 'a' to 'h', and moves them to another S3 bucket. It uses the Boto3 library for AWS interaction..
 
 ### Usage
 

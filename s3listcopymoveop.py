@@ -54,6 +54,7 @@ try:
         print("Files starting with 'a' to 'h' have been moved to the destination bucket.")
     else:
         print(f"No files found in '{source_bucket_name}'.")
+        print("")
 
 except Exception as e:
     print(f"An error occurred: {e}")
