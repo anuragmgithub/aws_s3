@@ -3,7 +3,7 @@ import boto3
 # Replace with your AWS credentials and S3 bucket name
 
 bucket_name = 'dp-aws-s3-op'
-file_path = r'F:\sampledata\archive'
+file_path = 'F:/sampledata/archive/'
 
 
 # Create an S3 client
